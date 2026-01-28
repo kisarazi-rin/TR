@@ -1,0 +1,3 @@
+atreamlit
+pandas
+scikit-learn
